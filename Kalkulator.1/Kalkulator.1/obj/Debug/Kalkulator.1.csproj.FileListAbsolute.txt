@@ -1,0 +1,10 @@
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\bin\Debug\Kalkulator.1.exe.config
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\bin\Debug\Kalkulator.1.exe
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\bin\Debug\Kalkulator.1.pdb
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\obj\Debug\Kalkulator.1.csprojAssemblyReference.cache
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\obj\Debug\Kalkulator._1.Form1.resources
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\obj\Debug\Kalkulator._1.Properties.Resources.resources
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\obj\Debug\Kalkulator.1.csproj.GenerateResource.cache
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\obj\Debug\Kalkulator.1.csproj.CoreCompileInputs.cache
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\obj\Debug\Kalkulator.1.exe
+C:\Users\raffc\source\repos\Kalkulator.1\Kalkulator.1\obj\Debug\Kalkulator.1.pdb
